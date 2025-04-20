@@ -40,12 +40,15 @@ Experimental Training Platform, Digital Oscilloscope (minimum bandwidth: 10 MHz)
 
 
 ### TABLE
-![image](https://github.com/user-attachments/assets/0a1c7e5f-e9e1-4959-9a91-04b598bc2647)
+![image](https://github.com/user-attachments/assets/43a0d587-b2db-44f3-8df3-ef58241fa94f)
+
 
 
 ### OUTPUT GRAPHS
+![WhatsApp Image 2025-04-20 at 10 50 22_ab62ea38](https://github.com/user-attachments/assets/848dd04c-9a83-41fa-b278-b44c29ac8195)
+![WhatsApp Image 2025-04-20 at 10 50 51_a3a0c1b2](https://github.com/user-attachments/assets/d60ca6b5-d6de-4aa3-822c-6bae7809a933)
+![WhatsApp Image 2025-04-20 at 10 51 09_6c5723df](https://github.com/user-attachments/assets/5447f526-fe3c-48e8-a8b0-a5bacfd00424)
 
-\[Space for Output Graphs]
 
 ### RESULT
 
